@@ -7,7 +7,7 @@ This collection of IPython notebooks and supporting documentation/files is meant
 
 A very [useful youtube video](https://www.youtube.com/watch?v=H6dLGQw9yFQ) to explain the IPython notebook format is available.
 
-An overview of the notebooks is as follows:
+##An overview of the notebooks is as follows:
 
 [00-Introduction and Python Basics.ipynb](http://nbviewer.ipython.org/github/cmiller8/PythonforBuildingAnalysts/blob/master/00-Introduction%20and%20Python%20Basics.ipynb) -- this notebook is meant to give an overview of the basic Python library functions and flow controls. It is not well annotated quite yet, so other [more general Python overviews](https://www.youtube.com/watch?v=gGKd19EtmqY&list=PLFD8B7CCCDB784595) could be better for very basic beginners.
 
