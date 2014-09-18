@@ -27,6 +27,8 @@ To use the notebooks, you will need to have Python installed on your machine alo
 
 [07-Scenarios - EnergyPlus Post-Processing 2 - Comparing Simulation and Measured.ipynb](http://nbviewer.ipython.org/github/cmiller8/PythonforBuildingAnalysts/blob/master/07-Scenarios%20-%20EnergyPlus%20Post-Processing%202%20-%20Comparing%20Simulation%20and%20Measured.ipynb) -- This is a notebook where I compare output data from EnergyPlus with some measured heating data. This notebook also has many advanced techniques using the Pandas library. Better annotation is on its way.
 
+08-Scenarios - An eppy Scenario -- haven't had the time to create this yet. Santosh, perhaps you have a more implemented example
+
 [09-Scenarios - Measured Data Visualization and R Integration.ipynb](http://nbviewer.ipython.org/github/cmiller8/PythonforBuildingAnalysts/blob/master/09-Scenarios%20-%20Measured%20Data%20Visualization%20and%20R%20Integration.ipynb) -- A big .csv file (80+ MB) from a real chilled water plant is loaded, visualized, and some of the data is passed to R to fit an ARIMA model (psuedo-successfully)
 
 [10-Scenarios - VRV Performance Curve Maker.ipynb](http://nbviewer.ipython.org/github/cmiller8/PythonforBuildingAnalysts/blob/master/10-Scenarios%20-%20VRV%20Performance%20Curve%20Maker.ipynb) -- A super crude notebook with code I used to create VRV performance curve coefficients for EnergyPlus from raw manufacturer data. Its sort of an advanced and obscure notebook.
