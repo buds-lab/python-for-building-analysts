@@ -29,5 +29,6 @@ A very [useful youtube video](https://www.youtube.com/watch?v=H6dLGQw9yFQ) to ex
 
 [10-Scenarios - VRV Performance Curve Maker.ipynb](http://nbviewer.ipython.org/github/cmiller8/PythonforBuildingAnalysts/blob/master/10-Scenarios%20-%20VRV%20Performance%20Curve%20Maker.ipynb) -- A super crude notebook with code I used to create VRV performance curve coefficients for EnergyPlus from raw manufacturer data. Its sort of an advanced and obscure notebook.
 
+##Please feel free to upload your own notebooks to enhance this list of learning resources for building performance analysts!
 
-
+This work is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
