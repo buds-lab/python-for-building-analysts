@@ -35,4 +35,33 @@ To use the notebooks, you will need to have Python installed on your machine alo
 
 ##Please feel free to upload your own notebooks to enhance this list of learning resources for building performance analysts!
 
+Background  
+----------
+
+If you are unfamiliar with IPython Notebook you can start with http://ipython.org/notebook
+
+
+Installation  
+------------
+
+* Prerequisites  
+One of the following distributions is needed. Please note that even if you have Python installed it is important to have one of these distributions installed and the binary for this installation in your path. This is because these distributions come packaged with all the supplementary libraries needed and these have been historically difficult to install separately.
+
+  * EPD Free Enthought Python Distribution from http://enthought.com
+  * Anaconda Python from http://continuum.io
+  * Development has been done on v 1.5 of Anaconda distribution but EPD Free should work just as well.
+
+* The following steps assume you have installed one of the distributions mentioned in prerequisites.
+
+* From a zip or tar file
+    * download the zip or tar file 
+    * unpack the file to a directory called learnds
+    * cd to the 'notebooks' subdirectory
+    * start IPython Notebook 'ipython notebook --pylab=inline'
+ 
+* From the git repo
+    * clone the repo
+    * cd to 'notebooks'
+    * start IPython Notebook 'ipython notebook --pylab=inline'
+
 This work is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
