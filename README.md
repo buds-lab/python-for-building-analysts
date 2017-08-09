@@ -9,7 +9,7 @@ A very [useful youtube video](https://www.youtube.com/watch?v=H6dLGQw9yFQ) to ex
 
 To use the notebooks, you will need to have Python installed on your machine along with quite a few of the libraries. The best way to do this is to use the [Canopy Free edition](https://www.enthought.com/products/canopy/).
 
-##An overview of the notebooks is as follows:
+## An overview of the notebooks is as follows:
 
 0_PythonBaseLibraries:
 
@@ -47,7 +47,7 @@ To use the notebooks, you will need to have Python installed on your machine alo
 
 <!--[10-Scenarios - VRV Performance Curve Maker.ipynb](http://nbviewer.ipython.org/github/cmiller8/PythonforBuildingAnalysts/blob/master/10-Scenarios%20-%20VRV%20Performance%20Curve%20Maker.ipynb) -- A super crude notebook with code I used to create VRV performance curve coefficients for EnergyPlus from raw manufacturer data. Its sort of an advanced and obscure notebook.-->
 
-##Please feel free to upload your own notebooks to enhance this list of learning resources for building performance analysts!
+## Please feel free to upload your own notebooks to enhance this list of learning resources for building performance analysts!
 
 Background  
 ----------
