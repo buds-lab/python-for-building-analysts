@@ -7,7 +7,7 @@ This collection of IPython notebooks and supporting documentation/files is meant
 
 A very [useful youtube video](https://www.youtube.com/watch?v=H6dLGQw9yFQ) to explain the IPython notebook format is available.
 
-To use the notebooks, you will need to have Python installed on your machine along with quite a few of the libraries. The best way to do this is to use the [Canopy Free edition](https://www.enthought.com/products/canopy/).
+To use the notebooks, you will need to have Python installed on your machine along with quite a few of the libraries. The best way to do this is to use the [Anaconda Python Distribution](https://www.continuum.io/downloads).
 
 ## An overview of the notebooks is as follows:
 
